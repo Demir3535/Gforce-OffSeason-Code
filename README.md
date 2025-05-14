@@ -6,6 +6,5 @@ We have 27:1 reduciton elevator powered by 2 NEO BRUSHLESS Motor.
 We have 200:1 reduction wrist system powered by 1 NEO BRUSHLESS Motor.
 Using encoder values for automated scoring and go to specific positions for scoring.
 In this code we are currently switch to full automation for elevator and wrist. 
-The drivebase same as TUAK event but unfortunately we have some plans to change the drivebase.
-We are going to use this code for FRC Reefscape off season tournaments,hope to made working auto one day!!
+We are going to use this code for FRC Reefscape Off Season tournaments,hope to made working auto one day!!
 
