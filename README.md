@@ -1,4 +1,4 @@
-In code we are using FRC Team 8575's MK4I template for drivebse. Thanks for your all support team 8575, Harrison!
+In code we are using FRC Team 8575's MK4I template for drivebase. Thanks for your all support team 8575, Harrison!
 Subsystems developed by GFROCE 9028 software subteam.
 The drivebase same as TUAK event but unfortunately we have some plans to change the drivebase.
 Using MK4I L2 SDS Modules, 8 NEO BRUSHLESS Motor and Navx2 For gyro.
